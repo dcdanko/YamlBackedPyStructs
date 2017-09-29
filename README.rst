@@ -36,7 +36,8 @@ can be edited using your favorite text editor.
 Installation
 ------------
 
-.. code-block:: 
+.. code-block:: bash
+   
    pip install yaml_backed_structs
 
    python setup.py install
