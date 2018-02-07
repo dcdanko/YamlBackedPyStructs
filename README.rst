@@ -8,6 +8,9 @@ yaml_backed_structs
 .. image:: https://img.shields.io/github/license/mashape/apistatus.svg
     :target: https://img.shields.io/github/license/mashape/apistatus
     :alt: License
+
+.. image:: https://travis-ci.org/dcdanko/YamlBackedPyStructs.svg?branch=master
+    :target: https://travis-ci.org/dcdanko/YamlBackedPyStructs
           
 Basic python data structures backed by a human editable yaml file
 
