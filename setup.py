@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="yaml_backed_structs",
-    version="0.9.0",
+    version="1.0.0",
     url="https://github.com/dcdanko/YamlBackedPyStructs",
 
     author="David C. Danko",
@@ -13,10 +13,10 @@ setuptools.setup(
 
     packages=['yaml_backed_structs'],
 
-    install_requires=['PyYAML==3.12'],
+    install_requires=['PyYAML>=3.12'],
 
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Production/Stable',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
